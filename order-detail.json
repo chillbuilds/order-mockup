@@ -1,0 +1,52 @@
+{
+    "order_details": {
+        "customer_no": "0002356",
+        "customer_po": "123456",
+        "item_summary": "Framed Wall Art +13 more",
+        "order_date": "2022-03-11 3:04PM",
+        "sales_order_no": "2778961",
+        "ship_to_name": "Jodi Buckingham",
+        "shipments": [
+            {
+                "art_thumb": "https://assets.denydesigns.com/...",
+                "artist": "Holli Zollinger",
+                "artwork": "White Tiger",
+                "item_code": "12345-WTRBTL",
+                "msrp": "60.00",
+                "price": "29.40",
+                "prod_desc": "Water Bottle - 32oz with Sport Top",
+                "product_thumb": "https://assets.denydesigns.com/...",
+                "qty": 1,
+                "shipment": {
+                    "shipping_method": "UPSGROUND",
+                    "status": "In-Transit - Scanned at Englewood, CO 3/9/2022 3:00PM",
+                    "tracking_id": "1Z2T555T12134543"
+                },
+                "shopify_url": "https://www.denydesigns.com/product/holli-zollinger-white-tiger-water-bottle",
+                "status": "shipped"
+            },
+            {
+                "art_thumb": "https://assets.denydesigns.com/...",
+                "artist": "Holli Zollinger",
+                "artwork": "White Tiger",
+                "item_code": "12345-WTRBTL",
+                "msrp": "60.00",
+                "price": "29.40",
+                "prod_desc": "Water Bottle - 32oz with Sport Top",
+                "product_thumb": "https://assets.denydesigns.com/...",
+                "qty": 1,
+                "shipment": {
+                    "shipping_method": "UPSGROUND",
+                    "status": "Delivered - 3/9/2022 3:00PM",
+                    "tracking_id": "1Z2T555T12134543"
+                },
+                "shopify_url": "https://www.denydesigns.com/product/holli-zollinger-white-tiger-water-bottle",
+                "status": "delivered"
+            }
+        ],
+        "shipping": "5.00",
+        "status": "partially shipped",
+        "tax": "0",
+        "total": "87.88"
+    }
+}
